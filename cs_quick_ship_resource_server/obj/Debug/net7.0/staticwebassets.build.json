@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V/659ggJds2FcOCvLNru0XeoacfiwMHfdZb1DKZXCSI=",
+  "Source": "cs-post-resource-server",
+  "BasePath": "_content/cs-post-resource-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
