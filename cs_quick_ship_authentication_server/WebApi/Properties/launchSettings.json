@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "cs-post-authentication-server": {
+    "cs_quick_ship_authentication_server": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {

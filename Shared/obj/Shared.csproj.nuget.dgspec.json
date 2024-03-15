@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cs_quick_ship\\Shared\\Shared.csproj": {}
+    "C:\\Users\\DOTNET\\Documents\\test\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "D:\\cs_quick_ship\\Shared\\Shared.csproj": {
+    "C:\\Users\\DOTNET\\Documents\\test\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs_quick_ship\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\DOTNET\\Documents\\test\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "D:\\cs_quick_ship\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\DOTNET\\.nuget\\packages\\",
-        "outputPath": "D:\\cs_quick_ship\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\DOTNET\\Documents\\test\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

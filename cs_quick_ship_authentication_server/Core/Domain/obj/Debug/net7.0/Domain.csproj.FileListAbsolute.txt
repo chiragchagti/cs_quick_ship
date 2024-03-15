@@ -46,3 +46,15 @@ D:\cs_quick_ship\cs_quick_ship_authentication_server\Core\Domain\obj\Debug\net7.
 D:\cs_quick_ship\cs_quick_ship_authentication_server\Core\Domain\obj\Debug\net7.0\refint\Domain.dll
 D:\cs_quick_ship\cs_quick_ship_authentication_server\Core\Domain\obj\Debug\net7.0\Domain.pdb
 D:\cs_quick_ship\cs_quick_ship_authentication_server\Core\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Core\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Core\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Core\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Core\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Core\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Core\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Core\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Core\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Core\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Core\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Core\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Core\Domain\obj\Debug\net7.0\ref\Domain.dll

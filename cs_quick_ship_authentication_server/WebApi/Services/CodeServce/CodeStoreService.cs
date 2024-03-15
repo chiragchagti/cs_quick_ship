@@ -12,20 +12,54 @@ using System.Collections.Concurrent;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using Application.Interfaces;
+using Domain.Configuration;
+using Microsoft.EntityFrameworkCore;
+using Application.Models.Context;
+using Microsoft.Extensions.Options;
+using cs_quick_ship_authentication_server.Services.Configuration;
 
 namespace cs_quick_ship_authentication_server.Services.CodeServce
 {
     public class CodeStoreService : ICodeStoreService
     {
-        private readonly ConcurrentDictionary<string, AuthorizationCode> _codeIssued = new ConcurrentDictionary<string, AuthorizationCode>();
+        //private readonly ConcurrentDictionary<string, AuthorizationCode> _codeIssued = new ConcurrentDictionary<string, AuthorizationCode>();
+        private readonly ConcurrentDictionaryService _concurrentDictionaryService;
         private readonly ClientStore _clientStore = new ClientStore();
+        private readonly OAuthServerOptions _options;
+        private readonly BaseDBContext _dbContext;
+
+        public CodeStoreService(IOptions<OAuthServerOptions> options, BaseDBContext dbContext, ConcurrentDictionaryService concurrentDictionaryService)
+        {
+            _options = options.Value;
+            _dbContext = dbContext;
+            _concurrentDictionaryService = concurrentDictionaryService;
+        }
+
+
 
         // Here I genrate the code for authorization, and I will store it 
         // in the Concurrent Dictionary
 
         public string GenerateAuthorizationCode(AuthorizationCode authorizationCode)
         {
-            var client = _clientStore.Clients.Where(x => x.ClientId == authorizationCode.ClientId).SingleOrDefault();
+            Client client = new();
+            if (_options.Provider == "DB")
+            {
+
+                var dbClient = _dbContext.OAuthApplications.Where(x => x.ClientId == authorizationCode.ClientId).SingleOrDefault();
+                client.ClientUri = dbClient.ClientUri;
+                client.ClientId = dbClient.ClientId;
+                client.ClientSecret = dbClient.ClientSecret;
+                client.ClientName = dbClient.ClientName;
+                client.RedirectUri = dbClient.RedirectUris;
+                client.IsActive = dbClient.IsActive;
+                client.AllowedScopes = dbClient.AllowedScopes.Split(' ');
+                client.GrantTypes = dbClient.GrantTypes.Split(' ');              
+            }
+            else
+            {
+                client = _clientStore.Clients.Where(x => x.ClientId == authorizationCode.ClientId).SingleOrDefault();
+            }
 
             if (client != null)
             {
@@ -34,7 +68,7 @@ namespace cs_quick_ship_authentication_server.Services.CodeServce
                 rand.GetBytes(bytes);
                 var code = Base64UrlEncoder.Encode(bytes);
 
-                _codeIssued[code] = authorizationCode;
+                _concurrentDictionaryService.GetDictionary()[code] = authorizationCode;
 
                 return code;
             }
@@ -49,7 +83,7 @@ namespace cs_quick_ship_authentication_server.Services.CodeServce
         public AuthorizationCode GetClientDataByCode(string key)
         {
             AuthorizationCode authorizationCode;
-            if (_codeIssued.TryGetValue(key, out authorizationCode))
+            if (_concurrentDictionaryService.GetDictionary().TryGetValue(key, out authorizationCode))
             {
                 return authorizationCode;
             }
@@ -67,7 +101,23 @@ namespace cs_quick_ship_authentication_server.Services.CodeServce
             if (oldValue != null)
             {
                 // check the requested scopes with the one that are stored in the Client Store 
-                var client = _clientStore.Clients.Where(x => x.ClientId == oldValue.ClientId).FirstOrDefault();
+                Client client = new();
+                if (_options.Provider == "DB")
+                {
+                    var dbClient = _dbContext.OAuthApplications.Where(x => x.ClientId == oldValue.ClientId).FirstOrDefault();
+                    client.ClientUri = dbClient.ClientUri;
+                    client.ClientId = dbClient.ClientId;
+                    client.ClientSecret = dbClient.ClientSecret;
+                    client.ClientName = dbClient.ClientName;
+                    client.RedirectUri = dbClient.RedirectUris;
+                    client.IsActive = dbClient.IsActive;
+                    client.AllowedScopes = dbClient.AllowedScopes.Split(' ');
+                    client.GrantTypes = dbClient.GrantTypes.Split(' ');
+                }
+                else
+                {
+                    client = _clientStore.Clients.Where(x => x.ClientId == oldValue.ClientId).FirstOrDefault();
+                }
 
                 if (client != null)
                 {
@@ -90,7 +140,7 @@ namespace cs_quick_ship_authentication_server.Services.CodeServce
                         CodeChallengeMethod = oldValue.CodeChallengeMethod,
                         Subject = claimsPrincipal,
                     };
-                    var result = _codeIssued.TryUpdate(key, newValue, oldValue);
+                    var result = _concurrentDictionaryService.GetDictionary().TryUpdate(key, newValue, oldValue);
 
                     if (result)
                         return newValue;
@@ -108,7 +158,7 @@ namespace cs_quick_ship_authentication_server.Services.CodeServce
         public AuthorizationCode RemoveClientDataByCode(string key)
         {
             AuthorizationCode authorizationCode;
-            var isRemoved = _codeIssued.TryRemove(key, out authorizationCode);
+            var isRemoved = _concurrentDictionaryService.GetDictionary().TryRemove(key, out authorizationCode);
             if (isRemoved)
                 return authorizationCode;
             return null;

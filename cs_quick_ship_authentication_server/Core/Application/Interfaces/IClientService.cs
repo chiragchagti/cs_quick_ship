@@ -10,8 +10,10 @@ using System.Text;
 using Application.Models;
 using Application.Models.Context;
 using Domain.Common;
+using Domain.Configuration;
 using Domain.Enumeration;
 using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 
 namespace Application.Interfaces
@@ -33,21 +35,45 @@ namespace Application.Interfaces
     public class ClientService : IClientService
     {
         private readonly ClientStore _clientStore = new ClientStore();
+        private readonly OAuthServerOptions _options;
         private readonly IHttpContextAccessor _httpContextAccessor;
         private readonly BaseDBContext _dbContext;
         public ClientService(IHttpContextAccessor httpContextAccessor,
-            BaseDBContext context)
+            BaseDBContext context
+            , IOptions<OAuthServerOptions> options
+            )
         {
             _httpContextAccessor = httpContextAccessor;
             _dbContext = context;
+            _options = options.Value;
         }
 
         public Task<CheckClientResult> GetClientByIdAsync(string clientId)
         {
-            var c = _clientStore.Clients.Where(x => x.ClientId == clientId).FirstOrDefault();
+            Client client = new();
+            if (_options.Provider == "DB")
+            {
+                var dbClient = _dbContext.OAuthApplications.Where(x => x.ClientId == clientId).FirstOrDefault();
+                if (dbClient != null)
+                {
+
+                client.ClientUri = dbClient.ClientUri;
+                client.ClientId = clientId;
+                client.ClientSecret = dbClient.ClientSecret;
+                client.ClientName = dbClient.ClientName;
+                client.RedirectUri = dbClient.RedirectUris;
+                client.IsActive = dbClient.IsActive;
+                client.AllowedScopes =  dbClient.AllowedScopes.Split(' ');
+                client.GrantTypes = dbClient.GrantTypes.Split(' ');
+                }
+            }
+            else
+            {
+                client = _clientStore.Clients.Where(x => x.ClientId == clientId).FirstOrDefault();
+            }
             var response = new CheckClientResult
             {
-                Client = c,
+                Client = client,
                 IsSuccess = true
             };
             return Task.FromResult(response);
@@ -66,10 +92,30 @@ namespace Application.Interfaces
 
         public Task<CheckClientResult> GetClientByUriAsync(string clientUrl)
         {
-            var c = _clientStore.Clients.Where(x => x.ClientUri == clientUrl).FirstOrDefault();
+            Client client = new();
+            if (_options.Provider == "DB")
+            {
+                var dbClient = _dbContext.OAuthApplications.Where(x => x.ClientUri == clientUrl).FirstOrDefault();
+                if (dbClient != null)
+                {
+
+                client.ClientUri = dbClient.ClientUri;
+                client.ClientId = dbClient.ClientId;
+                client.ClientSecret = dbClient.ClientSecret;
+                client.ClientName = dbClient.ClientName;
+                client.RedirectUri = dbClient.RedirectUris;
+                client.IsActive = dbClient.IsActive;
+                client.AllowedScopes = dbClient.AllowedScopes.Split(' ');
+                client.GrantTypes = dbClient.GrantTypes.Split(' ');
+                }
+            }
+            else
+            {
+                client = _clientStore.Clients.Where(x => x.ClientUri == clientUrl).FirstOrDefault();
+            }
             var response = new CheckClientResult
             {
-                Client = c,
+                Client = client,
                 IsSuccess = true
             };
             return Task.FromResult(response);
@@ -105,11 +151,32 @@ namespace Application.Interfaces
 
             if (!string.IsNullOrWhiteSpace(clientId))
             {
-                var client = _clientStore
+                Client client = new();
+                if (_options.Provider == "DB")
+                {
+                    var dbClient = _dbContext.OAuthApplications.Where(x =>
+                    x.ClientId == clientId)
+                    .FirstOrDefault();
+                    if (dbClient != null)
+                    {
+                        client.ClientUri = dbClient.ClientUri;
+                        client.ClientId = clientId;
+                        client.ClientSecret = dbClient.ClientSecret;
+                        client.ClientName = dbClient.ClientName;
+                        client.RedirectUri = dbClient.RedirectUris;
+                        client.IsActive = dbClient.IsActive;
+                        client.AllowedScopes = dbClient.AllowedScopes.Split(' ');
+                        client.GrantTypes = dbClient.GrantTypes.Split(' ');
+                    }
+                }
+                else
+                {
+                    client = _clientStore
                     .Clients
                     .Where(x =>
                     x.ClientId.Equals(clientId, StringComparison.OrdinalIgnoreCase))
                     .FirstOrDefault();
+                }
 
                 if (client != null)
                 {

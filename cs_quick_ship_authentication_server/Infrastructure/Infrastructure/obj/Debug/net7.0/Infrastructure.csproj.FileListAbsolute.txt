@@ -46,3 +46,15 @@ D:\cs_quick_ship\cs_quick_ship_authentication_server\Infrastructure\Infrastructu
 D:\cs_quick_ship\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 D:\cs_quick_ship\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 D:\cs_quick_ship\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

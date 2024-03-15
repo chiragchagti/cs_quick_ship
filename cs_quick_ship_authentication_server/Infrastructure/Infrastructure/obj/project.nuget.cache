@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BYb2LutSW6TKviLfQTb6z9CZ03J9faqBOqlWiLYk1Rx5+dG97vxUXJIHY6McXtWf3PTKR+7lGEOxMlscoNyqTQ==",
+  "dgSpecHash": "+irqpfHPKgb+Qwnwb6Qoub7pxh/Q+4vxFNIY/U3SdvUl9tHeO+M2Nyz2xarjp53z10rqPAsii5wubbVSqJSRjA==",
   "success": true,
-  "projectFilePath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

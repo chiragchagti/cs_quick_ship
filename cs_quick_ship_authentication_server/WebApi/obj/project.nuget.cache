@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M1DGDwFa5lbuDF+yvs87opM8VLb4Tb51BXN8C2+TM6mbxum3wKJ6qKoYcwRp0dUEmlAoRufku1fPZNZ6xFEyFA==",
+  "dgSpecHash": "0pyLWuO1u7glVm13ssvzSwct3hkPx4WopWQtBWIBTIVyToUek8Z25VN4rzTZNrhifU6nKJnq0hKIeZCJzzBa7Q==",
   "success": true,
-  "projectFilePath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\cs_quick_ship.csproj",
+  "projectFilePath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\cs_quick_ship_authentication_server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DOTNET\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DOTNET\\.nuget\\packages\\azure.data.appconfiguration\\1.3.0\\azure.data.appconfiguration.1.3.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\cs_quick_ship.csproj": {}
+    "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\cs_quick_ship.csproj": {}
   },
   "projects": {
-    "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Application\\Application.csproj": {
+    "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\DOTNET\\.nuget\\packages\\",
-        "outputPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Application\\obj\\",
+        "outputPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj"
+              "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj"
               },
-              "D:\\cs_quick_ship\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\cs_quick_ship\\Shared\\Shared.csproj"
+              "C:\\Users\\DOTNET\\Documents\\test\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\Shared\\Shared.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj": {
+    "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\DOTNET\\.nuget\\packages\\",
-        "outputPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -147,14 +147,14 @@
         }
       }
     },
-    "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\DOTNET\\.nuget\\packages\\",
-        "outputPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -207,14 +207,14 @@
         }
       }
     },
-    "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\cs_quick_ship.csproj": {
+    "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\cs_quick_ship.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\cs_quick_ship.csproj",
+        "projectUniqueName": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\cs_quick_ship.csproj",
         "projectName": "cs_quick_ship",
-        "projectPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\cs_quick_ship.csproj",
+        "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\cs_quick_ship.csproj",
         "packagesPath": "C:\\Users\\DOTNET\\.nuget\\packages\\",
-        "outputPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -236,17 +236,17 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Application\\Application.csproj": {
-                "projectPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Application\\Application.csproj"
+              "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Application\\Application.csproj"
               },
-              "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj"
+              "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj"
               },
-              "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj"
               },
-              "D:\\cs_quick_ship\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\cs_quick_ship\\Shared\\Shared.csproj"
+              "C:\\Users\\DOTNET\\Documents\\test\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\Shared\\Shared.csproj"
               }
             }
           }
@@ -367,14 +367,14 @@
         }
       }
     },
-    "D:\\cs_quick_ship\\Shared\\Shared.csproj": {
+    "C:\\Users\\DOTNET\\Documents\\test\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs_quick_ship\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\DOTNET\\Documents\\test\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "D:\\cs_quick_ship\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\DOTNET\\.nuget\\packages\\",
-        "outputPath": "D:\\cs_quick_ship\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\DOTNET\\Documents\\test\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

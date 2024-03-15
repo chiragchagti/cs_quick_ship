@@ -1,879 +1,879 @@
 {
   "Files": [
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\bootstrap"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\README.md",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\README.md",
       "PackagePath": "staticwebassets\\bootstrap\\README.md"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\alert.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\alert.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\alert.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\alert.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\alert.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\alert.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\base-component.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\base-component.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\base-component.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\base-component.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\base-component.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\base-component.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\button.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\button.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\button.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\button.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\button.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\button.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\carousel.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\carousel.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\carousel.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\carousel.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\carousel.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\carousel.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\collapse.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\collapse.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\collapse.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\collapse.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\collapse.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\collapse.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\data.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\data.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\dom\\data.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\data.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\data.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\dom\\data.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\event-handler.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\event-handler.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\dom\\event-handler.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\event-handler.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\event-handler.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\dom\\event-handler.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\manipulator.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\manipulator.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\dom\\manipulator.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\manipulator.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\manipulator.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\dom\\manipulator.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\selector-engine.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\selector-engine.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\dom\\selector-engine.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\selector-engine.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dom\\selector-engine.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\dom\\selector-engine.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dropdown.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dropdown.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\dropdown.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dropdown.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\dropdown.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\dropdown.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\modal.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\modal.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\modal.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\modal.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\modal.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\modal.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\offcanvas.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\offcanvas.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\offcanvas.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\offcanvas.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\offcanvas.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\offcanvas.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\popover.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\popover.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\popover.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\popover.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\popover.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\popover.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\scrollspy.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\scrollspy.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\scrollspy.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\scrollspy.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\scrollspy.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\scrollspy.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\tab.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\tab.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\tab.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\tab.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\tab.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\tab.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\toast.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\toast.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\toast.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\toast.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\toast.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\toast.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\tooltip.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\tooltip.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\tooltip.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\tooltip.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\tooltip.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\tooltip.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\backdrop.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\backdrop.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\backdrop.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\backdrop.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\backdrop.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\backdrop.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\component-functions.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\component-functions.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\component-functions.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\component-functions.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\component-functions.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\component-functions.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\config.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\config.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\config.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\config.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\config.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\config.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\focustrap.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\focustrap.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\focustrap.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\focustrap.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\focustrap.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\focustrap.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\index.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\index.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\index.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\index.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\index.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\index.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\sanitizer.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\sanitizer.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\sanitizer.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\sanitizer.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\sanitizer.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\sanitizer.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\scrollbar.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\scrollbar.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\scrollbar.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\scrollbar.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\scrollbar.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\scrollbar.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\swipe.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\swipe.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\swipe.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\swipe.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\swipe.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\swipe.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\template-factory.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\template-factory.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\template-factory.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\template-factory.js.map",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\dist\\util\\template-factory.js.map",
       "PackagePath": "staticwebassets\\bootstrap\\js\\dist\\util\\template-factory.js.map"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\alert.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\alert.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\alert.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\base-component.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\base-component.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\base-component.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\button.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\button.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\button.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\carousel.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\carousel.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\carousel.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\collapse.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\collapse.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\collapse.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\dom\\data.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\dom\\data.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\dom\\data.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\dom\\event-handler.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\dom\\event-handler.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\dom\\event-handler.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\dom\\manipulator.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\dom\\manipulator.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\dom\\manipulator.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\dom\\selector-engine.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\dom\\selector-engine.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\dom\\selector-engine.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\dropdown.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\dropdown.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\dropdown.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\modal.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\modal.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\modal.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\offcanvas.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\offcanvas.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\offcanvas.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\popover.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\popover.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\popover.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\scrollspy.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\scrollspy.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\scrollspy.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\tab.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\tab.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\tab.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\toast.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\toast.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\toast.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\tooltip.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\tooltip.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\tooltip.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\backdrop.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\backdrop.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\util\\backdrop.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\component-functions.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\component-functions.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\util\\component-functions.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\config.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\config.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\util\\config.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\focustrap.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\focustrap.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\util\\focustrap.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\index.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\index.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\util\\index.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\sanitizer.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\sanitizer.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\util\\sanitizer.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\scrollbar.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\scrollbar.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\util\\scrollbar.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\swipe.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\swipe.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\util\\swipe.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\template-factory.js",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\js\\src\\util\\template-factory.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\src\\util\\template-factory.js"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\package.json",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\package.json",
       "PackagePath": "staticwebassets\\bootstrap\\package.json"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_accordion.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_alert.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_badge.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_button-group.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_buttons.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_card.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_carousel.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_close.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_containers.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_forms.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_functions.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_grid.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_helpers.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_images.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_list-group.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_maps.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_maps.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_maps.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_modal.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_nav.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_navbar.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_pagination.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_placeholders.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_placeholders.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_placeholders.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_popover.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_progress.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_reboot.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_root.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_spinners.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_tables.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_toasts.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_transitions.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_type.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_utilities.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_variables.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_color-bg.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_color-bg.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_stacks.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_stacks.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_vr.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\helpers\\_vr.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\helpers\\_vr.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_backdrop.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_backdrop.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_banner.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_banner.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_banner.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\css\\custom.css",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\css\\custom.css",
       "PackagePath": "staticwebassets\\css\\custom.css"
     },
     {
-      "Id": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\jwks.json",
+      "Id": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\wwwroot\\jwks.json",
       "PackagePath": "staticwebassets\\jwks.json"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.cs_quick_ship.props",
-      "PackagePath": "build\\cs_quick_ship.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.cs_quick_ship_authentication_server.props",
+      "PackagePath": "build\\cs_quick_ship_authentication_server.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.cs_quick_ship.props",
-      "PackagePath": "buildMultiTargeting\\cs_quick_ship.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.cs_quick_ship_authentication_server.props",
+      "PackagePath": "buildMultiTargeting\\cs_quick_ship_authentication_server.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.cs_quick_ship.props",
-      "PackagePath": "buildTransitive\\cs_quick_ship.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.cs_quick_ship_authentication_server.props",
+      "PackagePath": "buildTransitive\\cs_quick_ship_authentication_server.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.cs_quick_ship.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.cs_quick_ship_authentication_server.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     }
   ],

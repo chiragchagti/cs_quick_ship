@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xS2e4LBlVJEApBMYnaTUDnfQLYiZ/ys7mFPDW1fftzHrBzLlFJDWjdNL3JYeTli21lbvp9vz68tn9sneV/F+mg==",
+  "dgSpecHash": "Ih0WTLm89p3sbC6zCIScWtuyB0KX6TJ/BbL1sdsiSHyGtnHVyGq7a0Id4Rt34rxZoioJLkZJ9M5Q+8iBhHUmPA==",
   "success": true,
-  "projectFilePath": "D:\\cs_quick_ship\\cs_quick_ship_resource_server\\cs-post-resource-server.csproj",
+  "projectFilePath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_resource_server\\cs_quick_ship_resource_server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DOTNET\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\DOTNET\\.nuget\\packages\\azure.data.appconfiguration\\1.3.0\\azure.data.appconfiguration.1.3.0.nupkg.sha512",

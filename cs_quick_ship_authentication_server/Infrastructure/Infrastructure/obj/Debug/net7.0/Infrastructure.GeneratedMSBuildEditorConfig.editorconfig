@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Infrastructure
-build_property.ProjectDir = D:\cs_quick_ship\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\
+build_property.ProjectDir = C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\Infrastructure\Infrastructure\

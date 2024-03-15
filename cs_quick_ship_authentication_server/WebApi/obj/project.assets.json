@@ -2472,6 +2472,7 @@
         "dependencies": {
           "Domain": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.16",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.16",
           "Microsoft.IdentityModel.Tokens": "7.4.0",
           "Shared": "1.0.0"
         },
@@ -6159,6 +6160,7 @@
       "Microsoft.AspNetCore.OpenApi >= 7.0.1",
       "Microsoft.Azure.AppConfiguration.AspNetCore >= 7.1.0",
       "Microsoft.EntityFrameworkCore >= 7.0.16",
+      "Microsoft.EntityFrameworkCore.Design >= 7.0.16",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.16",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.16",
       "Microsoft.IdentityModel.Tokens >= 7.4.0",
@@ -6181,11 +6183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\cs_quick_ship.csproj",
-      "projectName": "cs_quick_ship",
-      "projectPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\cs_quick_ship.csproj",
+      "projectUniqueName": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\cs_quick_ship_authentication_server.csproj",
+      "projectName": "cs_quick_ship_authentication_server",
+      "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\cs_quick_ship_authentication_server.csproj",
       "packagesPath": "C:\\Users\\DOTNET\\.nuget\\packages\\",
-      "outputPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6207,17 +6209,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Application\\Application.csproj": {
-              "projectPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Application\\Application.csproj"
+            "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Application\\Application.csproj"
             },
-            "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj"
+            "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Core\\Domain\\Domain.csproj"
             },
-            "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj"
             },
-            "D:\\cs_quick_ship\\Shared\\Shared.csproj": {
-              "projectPath": "D:\\cs_quick_ship\\Shared\\Shared.csproj"
+            "C:\\Users\\DOTNET\\Documents\\test\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\Shared\\Shared.csproj"
             }
           }
         }
@@ -6261,6 +6263,12 @@
             "version": "[7.1.0, )"
           },
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[7.0.16, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[7.0.16, )"
           },

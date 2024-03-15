@@ -23,5 +23,8 @@ namespace Domain.Entities
         public string RedirectUris { get; set; }
         public string ClientName { get; set; }
         public bool IsActive { get; set; }
+        public string AllowedScopes { get; set; }
+        public bool UsePkce { get; set; }
+        public string GrantTypes { get; set; }
     }
 }

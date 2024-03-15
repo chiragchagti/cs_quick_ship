@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\DOTNET\\.nuget\\packages\\",
-        "outputPath": "D:\\cs_quick_ship\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\DOTNET\\Documents\\test\\cs_quick_ship_authentication_server\\Infrastructure\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
