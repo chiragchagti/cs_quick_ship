@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\cs_quick_ship_resource_server.props" />
-</Project>

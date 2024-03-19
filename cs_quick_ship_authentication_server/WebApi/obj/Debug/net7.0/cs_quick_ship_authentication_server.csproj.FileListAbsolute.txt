@@ -1,3 +1,11 @@
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.csproj.AssemblyReference.cache
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.AssemblyInfoInputs.cache
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.AssemblyInfo.cs
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.RazorAssemblyInfo.cache
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.RazorAssemblyInfo.cs
 C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\bin\Debug\net7.0\appsettings.json
 C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\bin\Debug\net7.0\cs_quick_ship_authentication_server.staticwebassets.runtime.json
@@ -116,15 +124,6 @@ C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\bin\De
 C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\bin\Debug\net7.0\Application.pdb
 C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\bin\Debug\net7.0\Domain.pdb
 C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\bin\Debug\net7.0\Infrastructure.pdb
-C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.csproj.AssemblyReference.cache
-C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.AssemblyInfoInputs.cache
-C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.AssemblyInfo.cs
-C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.csproj.CoreCompileInputs.cache
-C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.RazorAssemblyInfo.cache
-C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.RazorAssemblyInfo.cs
 C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.cs_quick_ship_authentication_server.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.cs_quick_ship_authentication_server.props
 C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.cs_quick_ship_authentication_server.props
@@ -139,3 +138,4 @@ C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\De
 C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.pdb
 C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.genruntimeconfig.cache
 C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\ref\cs_quick_ship_authentication_server.dll
+C:\Users\DOTNET\Documents\test\cs_quick_ship_authentication_server\WebApi\obj\Debug\net7.0\cs_quick_ship_authentication_server.MvcApplicationPartsAssemblyInfo.cs
