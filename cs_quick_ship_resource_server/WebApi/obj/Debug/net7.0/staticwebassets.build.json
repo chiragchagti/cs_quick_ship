@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZW29QipYq0rZ4P/ozYObjExOxukEY+8BFCodDdYYMC4=",
+  "Source": "cs_quick_ship_resource_server",
+  "BasePath": "_content/cs_quick_ship_resource_server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
