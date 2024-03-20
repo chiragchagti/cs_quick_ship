@@ -1,12 +1,4 @@
-﻿/*
-                        GNU GENERAL PUBLIC LICENSE
-                          Version 3, 29 June 2007
- Copyright (C) 2022 Mohammed Ahmed Hussien babiker Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
- */
-
-using Microsoft.Extensions.Options;
+﻿using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using Domain.Configuration;
 using Application.OAuthResponse;
@@ -72,7 +64,7 @@ public class UserInfoService : IUserInfoService
             // validate to token
             RSACryptoServiceProvider provider = new RSACryptoServiceProvider();
             //string publicPrivateKey = File.ReadAllText("PublicPrivateKey.xml");
-            string? publicPrivateKey = _configuration["PublicPrivateKey"];
+            string publicPrivateKey = _configuration["PublicPrivateKey"];
 
             provider.FromXmlString(publicPrivateKey);
             RsaSecurityKey rsaSecurityKey = new RsaSecurityKey(provider);

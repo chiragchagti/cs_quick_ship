@@ -1,12 +1,4 @@
-﻿/*
-                        GNU GENERAL PUBLIC LICENSE
-                          Version 3, 29 June 2007
- Copyright (C) 2022 Mohammed Ahmed Hussien babiker Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
- */
-
-using Microsoft.Extensions.Options;
+﻿using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
@@ -28,7 +20,6 @@ namespace cs_quick_ship_authentication_server.Services
 {
     public class AuthorizeResultService : IAuthorizeResultService
     {
-        // for encrypted key see: https://stackoverflow.com/questions/18223868/how-to-encrypt-jwt-security-token
         private readonly ICodeStoreService _codeStoreService;
         private readonly IClientService _clientService;
         private readonly OAuthServerOptions _options;
