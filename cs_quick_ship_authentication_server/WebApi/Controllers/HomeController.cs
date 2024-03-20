@@ -12,26 +12,25 @@ using Infrastructure.Services;
 using Domain.Entities;
 using Application.Interfaces;
 using Application.OauthRequest;
+using Application.Features.User.Queries.LoginUserByOpenId;
 
 namespace cs_quick_ship_authentication_server.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
 
         private readonly IHttpContextAccessor _httpContextAccessor;
         private readonly IAuthorizeResultService _authorizeResultService;
         private readonly ICodeStoreService _codeStoreService;
-        private readonly IUserManagerService _userManagerService;
         private readonly IUserClaimsPrincipalFactory<AppUser> _userClaimsPrincipalFactory;
 
         public HomeController(IHttpContextAccessor httpContextAccessor, IAuthorizeResultService authorizeResultService,
-            ICodeStoreService codeStoreService, IUserManagerService userManagerService,
+            ICodeStoreService codeStoreService,
             IUserClaimsPrincipalFactory<AppUser> userClaimsPrincipalFactory)
         {
             _httpContextAccessor = httpContextAccessor;
             _authorizeResultService = authorizeResultService;
             _codeStoreService = codeStoreService;
-            _userManagerService = userManagerService;
             _userClaimsPrincipalFactory= userClaimsPrincipalFactory;
         }
 
@@ -67,20 +66,15 @@ namespace cs_quick_ship_authentication_server.Controllers
 
             }
 
-            var loginModel = new OpenIdConnectLoginRequest
-            {
-                RedirectUri = result.RedirectUri,
-                Code = result.Code,
-                RequestedScopes = result.RequestedScopes
-                
-            };
+            var loginModel = new LoginByOpenIdQuery("", "", result.RedirectUri, result.Code, result.RequestedScopes);
+
             return View("Login", loginModel);
         }
 
         [HttpGet]
         public IActionResult Login()
-        {
-            return View();
+			{
+			return View();
         }
         /// <summary>
         /// Login user and create claims.
@@ -88,15 +82,10 @@ namespace cs_quick_ship_authentication_server.Controllers
         /// <param name="loginRequest"></param>
         /// <returns></returns>
         [HttpPost]
-        public async Task<IActionResult> Login(OpenIdConnectLoginRequest loginRequest)
+        public async Task<IActionResult> Login(LoginByOpenIdQuery loginRequest)
         {
-            // here I have to check if the username and passowrd is correct
-            // and I will show you how to integrate the ASP.NET Core Identity
-            // With our framework
 
-            if (!loginRequest.IsValid())
-                return RedirectToAction("Error", new { error = "invalid_request" });
-            var userLoginResult = await _userManagerService.LoginUserByOpenIdAsync(loginRequest);
+            var userLoginResult = await Mediator.Send(loginRequest);
 
             if (userLoginResult.Succeeded)
             {
@@ -105,8 +94,8 @@ namespace cs_quick_ship_authentication_server.Controllers
                     claimsPrincipals, loginRequest.RequestedScopes);
                 if (result != null)
                 {
-                    loginRequest.RedirectUri = loginRequest.RedirectUri + "&code=" + loginRequest.Code;
-                    return Redirect(loginRequest.RedirectUri);
+                    var redirectUri = loginRequest.RedirectUri + "&code=" + loginRequest.Code;
+                    return Redirect(redirectUri);
                 }
             }
             return View("Error", new { error = "invalid_request" });

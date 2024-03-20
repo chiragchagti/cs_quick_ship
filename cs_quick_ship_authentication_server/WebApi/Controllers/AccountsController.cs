@@ -9,28 +9,31 @@
 using Microsoft.AspNetCore.Mvc;
 using Application.OauthRequest;
 using Application.Interfaces;
+using Application.Features.User.Commands;
+using Application.Features.User.Queries.LoginUser;
 
 namespace cs_quick_ship_authentication_server.Controllers
 {
-    public class AccountsController : Controller
+    public class AccountsController : BaseController
     {
-        private readonly IUserManagerService _userManagerService;
 
-        public AccountsController(IUserManagerService userManagerService)
-        {
-            _userManagerService = userManagerService;
-        }
 
         [HttpGet]
-        public IActionResult Login()
+        public IActionResult Login(bool? popup = false)
         {
-            return View();
+			if (popup.GetValueOrDefault())
+			{
+				// Set view data to indicate this is a popup window
+				ViewData["Popup"] = true;
+			}
+			return View();
         }
 
         [HttpPost]
-        public async Task<IActionResult> Login(LoginRequest request)
+        public async Task<IActionResult> Login(LoginQuery request)
         {
-            var result = await _userManagerService.LoginUserAsync(request);
+            //var query = new LoginQuery(request.UserName, request.Password);
+            var result = await Mediator.Send(request);
             if(result.Succeeded)
                 return RedirectToAction("Index", "Home");
             return View(request);
@@ -44,9 +47,10 @@ namespace cs_quick_ship_authentication_server.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Register(CreateUserRequest request)
+        public async Task<IActionResult> Register(CreateUserCommand request)
         {
-            var result = await _userManagerService.CreateUserAsync(request);
+            //var command = new CreateUserCommand(request.UserName, request.Password, request.Email, request.PhoneNumber);
+            var result = await Mediator.Send(request);
 
             if (result.Succeeded)
                 return RedirectToAction("Index", "Home");

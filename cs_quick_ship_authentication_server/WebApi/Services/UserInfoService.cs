@@ -14,6 +14,8 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Cryptography;
 using cs_quick_ship_authentication_server.Validation;
 using Application.Interfaces;
+using Domain.Entities;
+using Microsoft.AspNetCore.Identity;
 
 namespace Infrastructure.Services;
 
@@ -27,14 +29,14 @@ public class UserInfoService : IUserInfoService
     private readonly IBearerTokenUsageTypeValidation _bearerTokenUsageTypeValidation;
     private readonly OAuthServerOptions _optionsMonitor;
     private readonly IClientService _clientService;
-    private readonly IUserManagerService _userManagerService;
+    private readonly UserManager<AppUser> _userManagerService;
     private readonly ILogger<UserInfoService> _logger;
     private readonly IConfiguration _configuration;
     public UserInfoService(IHttpContextAccessor httpContextAccessor,
          IBearerTokenUsageTypeValidation bearerTokenUsageTypeValidation,
          IOptionsMonitor<OAuthServerOptions> optionsMonitor,
          IClientService clientService,
-         IUserManagerService userManagerService,
+         UserManager<AppUser> userManagerService,
          ILogger<UserInfoService> logger,
          IConfiguration configuration)
     {
@@ -108,9 +110,9 @@ public class UserInfoService : IUserInfoService
                     //string userId = tokenValidationReslt.ClaimsIdentity.FindFirst("sub")?.Value;
                     var userId = payload.Claims.FirstOrDefault(x => x.Type == "sub")?.Value;
                     // TODO:
-                    // check userId is null
+                    // check userId is nullawait _userManager.FindByIdAsync(userId);
 
-                    var user = await _userManagerService.GetUserAsync(userId);
+                    var user = await _userManagerService.FindByIdAsync(userId);
                     // TODO:
                     // check user is null
 

@@ -8,10 +8,10 @@ using Application.Models.Context;
 using Infrastructure.Services;
 using Application.Interfaces;
 using cs_quick_ship_authentication_server.Services;
-using Infrastructure.Services.Users;
 using cs_quick_ship_authentication_server.Validation;
 using cs_quick_ship_authentication_server.Services.CodeServce;
 using cs_quick_ship_authentication_server.Services.Configuration;
+using Application;
 
 var builder = WebApplication.CreateBuilder(args);
 var configServices = builder.Configuration;
@@ -30,6 +30,7 @@ if (!isDev)
         options.Connect("Endpoint=https://central-configuration.azconfig.io;Id=KG8b;Secret=gcJVBJG4TEgZK2zGmGYmFqrzp/fxpYGgCgZVd/Z/OtA=");
     });
 }
+builder.Services.AddApplication(builder.Configuration);
 builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
 {
     options.SignIn.RequireConfirmedEmail = false;
@@ -56,7 +57,6 @@ builder.Services.Configure<OAuthServerOptions>(configServices.GetSection("OAuthO
 builder.Services.AddScoped<IAuthorizeResultService, AuthorizeResultService>();
 builder.Services.AddScoped<ICodeStoreService, CodeStoreService>();
 builder.Services.AddSingleton<ConcurrentDictionaryService>();
-builder.Services.AddScoped<IUserManagerService, UserManagerService>();
 builder.Services.AddScoped<IClientService, ClientService>();
 builder.Services.AddScoped<IUserInfoService, UserInfoService>();
 builder.Services.AddScoped<IBearerTokenUsageTypeValidation, BearerTokenUsageTypeValidation>();

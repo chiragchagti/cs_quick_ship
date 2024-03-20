@@ -19,30 +19,29 @@ namespace cs_quick_ship_resource_server.Controllers.v1
 {
     [ApiController]
     [Route("[controller]")]
-    //[Authorize]
-    public class ShipmentController : ControllerBase
+    [Authorize]
+    public class ShipmentController : BaseApiController
     {
         private readonly IEmailService _emailService;
         private readonly IConfiguration Configuration;
-        private IMediator _mediator;
-        public ShipmentController(IEmailService emailService, IConfiguration configuration, IMediator mediator)
+        public ShipmentController(IEmailService emailService, IConfiguration configuration)
         {
             _emailService = emailService;
             Configuration = configuration;
-            _mediator = mediator;
         }
 
         [HttpPost]
         public async Task<IActionResult> CreateShipment(string addressFrom, string addressTo, int cariierId)
         {
             var command = new ShipmentCommand(addressFrom, addressTo, cariierId);
-            var result = await _mediator.Send(command);
+            var result = await Mediator.Send(command);
             return Ok(result);
         }
         [HttpGet("Shipments")]
         public async Task<IActionResult> GetShipments()
         {
-            return Ok(await _mediator.Send(new ShipmentQuery()));
+            var user = UserId;
+            return Ok(await Mediator.Send(new ShipmentQuery()));
         }
 
 
@@ -79,7 +78,7 @@ namespace cs_quick_ship_resource_server.Controllers.v1
         {
             var test = Configuration["QuickStartApp:Settings:Message"];
             var accessToken = await HttpContext.GetTokenAsync("access_token");
-            var email = HttpContext.User.FindFirst("email");
+            var email = HttpContext.User.FindFirst("sub");
             string? res = await GetDataFromApi(accessToken ?? "", "https://localhost:7065", "/api/Articles/GetDummyData");
             string? res1 = await GetDataFromApi(accessToken ?? "", "http://localhost:7157", "/api/HttpTriggerCSharp");
         
